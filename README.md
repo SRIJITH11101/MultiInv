@@ -1,1 +1,1 @@
-These java program can be used to fond multiplication modular inverses of twi numbers using Fermat's theorem and Euler's theorem
+These java program can be used to find multiplication modular inverses of two numbers using Fermat's theorem and Euler's theorem
